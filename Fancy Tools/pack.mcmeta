@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 97,
+    "description": "Adds grip to your tools",
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 97
+    },
+    "min_format": 15,
+    "max_format": 97
+  }
+}
